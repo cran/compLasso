@@ -1,0 +1,8 @@
+useDynLib(compLasso)
+import(Matrix)
+importFrom(quadprog,solve.QP)
+export(compLasso,cv.compLasso,predict.compLasso,plot.cv.compLasso,plot.compLasso)
+S3method("plot","cv.compLasso")
+S3method("plot","compLasso")
+S3method("predict","compLasso")
+

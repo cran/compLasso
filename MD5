@@ -1,0 +1,17 @@
+17b8b8d88a68013718b5a1eb1ad13207 *DESCRIPTION
+6f178f22ff7413d7f547058fc30203fa *NAMESPACE
+b9e2834e77e648b8153706613a9334fc *R/compLasso.R
+d5b44b59f23b953d6c2f8835e3fb180d *cleanup
+7d272deaf972618a3f6f70b36e2272f7 *configure
+8bd1021d80561a0f3e79137e920b3ecd *configure.in
+98e8e7b7969f1b5912595e08838d5162 *configure.win
+50ee39d83eb3ee16449195d75872213c *man/compLasso-internal.Rd
+d18dd7b3ca1237bb8b00a114ee1eb999 *man/compLasso-package.Rd
+a938c54ed9d60e7f81abb7231c1a8928 *man/compLasso.Rd
+37bcae118e0d75724763a11ff61ebbd3 *man/cv.compLasso.Rd
+fa99c784329ddd368a46f3c60cebfc0d *man/plot.compLasso.Rd
+8dad9be83c18ba5a8b91fd8d14809f3b *man/plot.cv.compLasso.Rd
+8ef57b1104cbe11cd1cd186173519d5d *man/predict.compLasso.Rd
+03d5d624b734ace367b45b789fbf66a4 *src/Makevars.in
+1bd30ec98a50c49ec6aabebbb458d0cb *src/Makevars.win
+7f11495699d4b9a981123947fdc065b7 *src/clustelNet.f90
